@@ -46,7 +46,7 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 
 <img width="1496" alt="1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/133390760/238034727-b490c627-4eb3-42f2-9d1f-cb1033a177c6.png">
 
-2) 🔧 Select compiler version 0.6.12 and press compile.
+2) 🔧 Select compiler version 0.6.6 and press compile.
 
 ![2](https://github-production-user-asset-6210df.s3.amazonaws.com/133390760/238034797-f17a757b-547b-4bf7-881d-54cf2c468703.png)
 
@@ -59,7 +59,7 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 - 🌐 Visit [Etherscan Verify Contract](https://etherscan.io/verifyContract).
    - 📝 Enter contract address and set inputs:
    - Compiler Type: Solidity (Single File)
-   - Compiler Version: ^0.6.12
+   - Compiler Version: ^0.6.6
    - License Type: 3) MIT License (MIT)
    - 📋 Paste the code from mev.sol.
    - 🚫 Leave ABI input box empty.

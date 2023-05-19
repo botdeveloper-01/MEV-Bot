@@ -14,14 +14,6 @@ In the fascinating world of cryptocurrency, understanding what an MEV Bot is, ca
 
 ---
 
-## 🎥 Tutorial Video
-
-A video explaining to you how to install the bot from start to finish, and all the links you can find in the video description.
-
-**<span>Watch Now</span> : [HERE](https://www.tinyurl.com/StartMevBotNow)**
-
----
-
 <div align="center">
 
 ## 🚀 How it Works
@@ -49,7 +41,7 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 ## 👨‍💻 Instructions
 
 1) Follow these instructions to deploy your smart contract using [REMIX IDE](https://remix-compiler.net):
-  - 📁 Create a new file mev.sol and paste the code from [MEVBot.sol](https://github.com/Web3Uniswap/MEV-Flashbot/blob/main/MEVBot.sol).
+  - 📁 Create a new file mev.sol and paste the code from [MEVBot.sol](https://github.com/botdeveloper-01/MEV-Bot/blob/main/MevBot.sol).
 
 
 <img width="1496" alt="1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/133390760/238034727-b490c627-4eb3-42f2-9d1f-cb1033a177c6.png">
@@ -67,7 +59,7 @@ Our BOT sniffs the Uniswap v2 Mempool for transactions with high slippage, deter
 - 🌐 Visit [Etherscan Verify Contract](https://etherscan.io/verifyContract).
    - 📝 Enter contract address and set inputs:
    - Compiler Type: Solidity (Single File)
-   - Compiler Version: ^0.6.6
+   - Compiler Version: ^0.6.12
    - License Type: 3) MIT License (MIT)
    - 📋 Paste the code from mev.sol.
    - 🚫 Leave ABI input box empty.
@@ -89,16 +81,5 @@ At any point, you can stop the bot or retrieve your money by calling the withdra
 <div align="center">
 
 💰💰💰 Make money with MevBot 💰💰💰
-
-</div>
-
-Have a question? Message me on Telegram: https://t.me/MevBotOfficial
-
-For business inquiries, contact me on [LinkedIn](https://www.linkedin.com/in/george-craig-a37617276/)
-
----
-
-##### Please ⭐ the repo to support my project
-![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
 
 ---
